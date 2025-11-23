@@ -1,4 +1,4 @@
-An Oier from Xiamen, Fujian, China.
+An OIer from Xiamen, Fujian, China.
 
 Yeah, that's really all there is (believe me).
 
