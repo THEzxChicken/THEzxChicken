@@ -1,8 +1,8 @@
-An OIer from Xiamen, Fujian, China.
+[简体中文](https://github.com/THEzxChicken/THEzxChicken/blob/main/README_zh.md) | English
 
-Yeah, that's really all there is (believe me).
-
-Might add more later (0.01% chance).
+An OIer from Xiamen, Fujian, China.  
+Yeah, that's really all there is (believe me).  
+Might add more later (0.01% chance).  
 
 <!--
 **THEzxChicken/THEzxChicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
