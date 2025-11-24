@@ -1,4 +1,4 @@
-[简体中文](https://github.com/THEzxChicken/THEzxChicken/blob/main/README_zh.md) | English
+[简体中文](https://github.com/THEzxChicken/THEzxChicken/blob/main/README_zh.md) | [繁體中文](https://github.com/THEzxChicken/THEzxChicken/blob/main/README_zh-tw.md) | English
 
 An OIer from Xiamen, Fujian, China.  
 Yeah, that's really all there is (believe me).  
